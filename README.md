@@ -1,5 +1,5 @@
 C# Mastery is a 30 day journey designed for developers who want not only to learn C# but to master it.
-Each day focuses on a specific concept (such as Switch Statements, Loops, OOP, Delegates, LINQ, Async/Await) and builds a self-contained project around it.
+Each day focuses on a specific concept (such as Switch Statements, Loops, OOP, Delegates, LINQ, Async/Await) and builds a self-contained project around it.<br>
 Project 1: Smart Calculator<br>
 🎯 Objective<br>
 The Smart Calculator is the first project in the C# Mastery series.
