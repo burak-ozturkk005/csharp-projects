@@ -1,0 +1,14 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\smartCalculator\bin\Debug\net9.0\smartCalculator.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\smartCalculator\bin\Debug\net9.0\smartCalculator.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\smartCalculator\bin\Debug\net9.0\smartCalculator.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\smartCalculator\bin\Debug\net9.0\smartCalculator.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\smartCalculator\bin\Debug\net9.0\smartCalculator.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\smartCalculator\obj\Debug\net9.0\smartCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\smartCalculator\obj\Debug\net9.0\smartCalculator.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\smartCalculator\obj\Debug\net9.0\smartCalculator.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\smartCalculator\obj\Debug\net9.0\smartCalculator.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\smartCalculator\obj\Debug\net9.0\smartCalculator.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\smartCalculator\obj\Debug\net9.0\refint\smartCalculator.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\smartCalculator\obj\Debug\net9.0\smartCalculator.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\smartCalculator\obj\Debug\net9.0\smartCalculator.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\smartCalculator\obj\Debug\net9.0\ref\smartCalculator.dll
