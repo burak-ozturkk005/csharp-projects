@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\numberAnalyzer\bin\Debug\net9.0\numberAnalyzer.exe
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\numberAnalyzer\bin\Debug\net9.0\numberAnalyzer.deps.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\numberAnalyzer\bin\Debug\net9.0\numberAnalyzer.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\numberAnalyzer\bin\Debug\net9.0\numberAnalyzer.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\numberAnalyzer\bin\Debug\net9.0\numberAnalyzer.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\numberAnalyzer\obj\Debug\net9.0\numberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\numberAnalyzer\obj\Debug\net9.0\numberAnalyzer.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\numberAnalyzer\obj\Debug\net9.0\numberAnalyzer.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\numberAnalyzer\obj\Debug\net9.0\numberAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\numberAnalyzer\obj\Debug\net9.0\numberAnalyzer.sourcelink.json
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\numberAnalyzer\obj\Debug\net9.0\numberAnalyzer.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\numberAnalyzer\obj\Debug\net9.0\refint\numberAnalyzer.dll
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\numberAnalyzer\obj\Debug\net9.0\numberAnalyzer.pdb
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\numberAnalyzer\obj\Debug\net9.0\numberAnalyzer.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\yazılım\chsarp\projects\csharp_mastery\numberAnalyzer\obj\Debug\net9.0\ref\numberAnalyzer.dll
